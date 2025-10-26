@@ -37,4 +37,4 @@ jobs:
 
       - name: Publish package
         shell: bash
-        run: pnpm publish --no-git-checks
+        run: pnpm publish --no-git-checks --access public
