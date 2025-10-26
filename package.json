@@ -1,5 +1,5 @@
 {
-  "name": "test-npm-trusted-publisher",
+  "name": "@licitdev/test-npm-trusted-publisher",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
